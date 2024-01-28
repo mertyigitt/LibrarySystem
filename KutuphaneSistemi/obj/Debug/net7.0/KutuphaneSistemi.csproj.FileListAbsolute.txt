@@ -1,0 +1,15 @@
+C:\Users\meert\Desktop\KutuphaneSistemi\KutuphaneSistemi\bin\Debug\net7.0\KutuphaneSistemi.exe
+C:\Users\meert\Desktop\KutuphaneSistemi\KutuphaneSistemi\bin\Debug\net7.0\KutuphaneSistemi.deps.json
+C:\Users\meert\Desktop\KutuphaneSistemi\KutuphaneSistemi\bin\Debug\net7.0\KutuphaneSistemi.runtimeconfig.json
+C:\Users\meert\Desktop\KutuphaneSistemi\KutuphaneSistemi\bin\Debug\net7.0\KutuphaneSistemi.dll
+C:\Users\meert\Desktop\KutuphaneSistemi\KutuphaneSistemi\bin\Debug\net7.0\KutuphaneSistemi.pdb
+C:\Users\meert\Desktop\KutuphaneSistemi\KutuphaneSistemi\obj\Debug\net7.0\KutuphaneSistemi.csproj.AssemblyReference.cache
+C:\Users\meert\Desktop\KutuphaneSistemi\KutuphaneSistemi\obj\Debug\net7.0\KutuphaneSistemi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meert\Desktop\KutuphaneSistemi\KutuphaneSistemi\obj\Debug\net7.0\KutuphaneSistemi.AssemblyInfoInputs.cache
+C:\Users\meert\Desktop\KutuphaneSistemi\KutuphaneSistemi\obj\Debug\net7.0\KutuphaneSistemi.AssemblyInfo.cs
+C:\Users\meert\Desktop\KutuphaneSistemi\KutuphaneSistemi\obj\Debug\net7.0\KutuphaneSistemi.csproj.CoreCompileInputs.cache
+C:\Users\meert\Desktop\KutuphaneSistemi\KutuphaneSistemi\obj\Debug\net7.0\KutuphaneSistemi.dll
+C:\Users\meert\Desktop\KutuphaneSistemi\KutuphaneSistemi\obj\Debug\net7.0\refint\KutuphaneSistemi.dll
+C:\Users\meert\Desktop\KutuphaneSistemi\KutuphaneSistemi\obj\Debug\net7.0\KutuphaneSistemi.pdb
+C:\Users\meert\Desktop\KutuphaneSistemi\KutuphaneSistemi\obj\Debug\net7.0\KutuphaneSistemi.genruntimeconfig.cache
+C:\Users\meert\Desktop\KutuphaneSistemi\KutuphaneSistemi\obj\Debug\net7.0\ref\KutuphaneSistemi.dll
